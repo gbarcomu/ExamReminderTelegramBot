@@ -1,0 +1,11 @@
+{
+	"initials" : "DISI",
+	"name" : "Diseno e Interaccion en Sistemas de Informacion",
+	"year" : 3,
+
+	"details": {
+		"date" : {"month": "enero", "day": 20},
+		"classroom" : "I.1-I.5",
+		"turn" : "manana"
+	}
+}

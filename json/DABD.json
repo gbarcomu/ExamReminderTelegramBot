@@ -1,0 +1,11 @@
+{
+	"initials" : "DABD",
+	"name" : "Diseno y Administracion de Bases de Datos",
+	"year" : 3,
+
+	"details": {
+		"date" : {"month": "enero", "day": 25},
+		"classroom" : "C.1",
+		"turn" : "manana"
+	}
+}

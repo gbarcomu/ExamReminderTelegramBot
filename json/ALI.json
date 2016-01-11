@@ -1,0 +1,11 @@
+{
+	"initials" : "ALI",
+	"name" : "Auditoria y Legislacion Informatica",
+	"year" : 3,
+
+	"details": {
+		"date" : {"month": "enero", "day": 15},
+		"classroom" : "C.3-C.4",
+		"turn" : "manana"
+	}
+}

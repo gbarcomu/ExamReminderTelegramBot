@@ -1,0 +1,11 @@
+{
+	"initials" : "RO",
+	"name" : "Redes de Ordenadores",
+	"year" : 3,
+
+	"details": {
+		"date" : {"month": "enero", "day": 26},
+		"classroom" : "I.5",
+		"turn" : "manana"
+	}
+}

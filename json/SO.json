@@ -1,0 +1,11 @@
+{
+	"initials" : "SO",
+	"name" : "Sistemas Operativos",
+	"year" : 3,
+
+	"details": {
+		"date" : {"month": "enero", "day": 29},
+		"classroom" : "C.3-C.4",
+		"turn" : "manana"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"initials" : "IS",
+	"name" : "Ingenieria del Software",
+	"year" : 3,
+
+	"details": {
+		"date" : {"month": "enero", "day": 11},
+		"classroom" : "I.1-I.5",
+		"turn" : "manana"
+	}
+}
